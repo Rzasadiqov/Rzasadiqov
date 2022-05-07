@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 , AzTV Azerbaijan
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=88a6eebeabcbadfff712234f71f0ded2e345ef86-366a35a4d48a4b0ad6cb451459dd2e63-1651784698-1651773898
+#EXTINF:-1 ,İCTİMAİ TV
+https://mugla.tvizlehd.com/ictimaitv.m3u8?tkn=Fp0WkjuN6suXgz9GhCDL8w&tms=1651957735&hst=canlitvizle.com
+#EXTINF:-1 ,SPACE TV AZ
+https://ecanlitv1.etvserver.com/live_sd/spacetv/chunks.m3u8?nimblesessionid=245294991&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMjIgNjo0NTo0OCBQTSZoYXNoX3ZhbHVlPThzWWtVVk9rMVl3OHpPZ1BJR0RPYXc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 ,XEZER TV
+https://ecanlitv2.etvserver.com/live_sd/xazartv/chunks.m3u8?nimblesessionid=348332745&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMjIgNjo0ODowNSBQTSZoYXNoX3ZhbHVlPVBkZm5XNXVSZGJHTFVoOWxwSkZ2dnc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 ,Azad TV Azerbaijan
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 ,Real TV
+https://istanbul.tvizlehd.com/realtv.m3u8?tkn=yGl8eH5OMea8h238tTPukA&tms=1651798065&hst=canlitvizle.com
+#EXTINF:-1 ,cbc sport az
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 ,İdman TV
+https://bursa.tvizlehd.com/idmantv.m3u8?tkn=3qPJBioENRnosNi0vHJcDQ&tms=1651792523&hst=www.canlitv.vin
+#EXTINF:-1 ,ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 ,ARB Günes
+https://ecanlitv2.etvserver.com/live_sd/arbgunestv/chunks.m3u8?nimblesessionid=348331445&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMjIgNjo0MTowMSBQTSZoYXNoX3ZhbHVlPXBXZUdtbllpT245RGx4cEdhZm1QeWc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 ,Muz TV
+https://ankara.tvizlehd.com/muztv.m3u8?tkn=ZNilKEzARMJsSNJ8OFca6A&tms=1651797736&hst=canlitvizle.com
+#EXTINF:-1 ,Azstar TV
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
+#EXTINF:-1 ,KRAL
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/4230
+#EXTINF:-1 ,KRAL POP TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/4231
+#EXTINF:-1 ,Индийские песни
+https://ayedewz3dnl6-hls-live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF:-1 ,KroneHit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 ,Afrobeats-tv
+https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,Dancestar MUZ
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_360p.m3u8
+#EXTINF:-1 ,muzyka-bollivuda
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=562400.m3u8
+#EXTINF:-1 ,TR:Salon 1 
+http://ay32.aatvbox.club:8880/wh12m12057/AME3JGAzS7/32726
+#EXTINF:-1 ,Kemal Sunal 2
+http://ay32.aatvbox.club:8880/wh12m12057/AME3JGAzS7/33022
+#EXTINF:-1 ,Kemal Sunal
+http://ay32.aatvbox.club:8880/wh12m12057/AME3JGAzS7/32864
+#EXTINF:-1 ,KEMAL SUNAL 
+http://ay32.aatvbox.club:8880/wh12m12057/AME3JGAzS7/32797
+#EXTINF:-1 ,AFYON TÜRK TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist_w568070397.m3u8
+#EXTINF:-1 ,TV 8 HD
+https://ecanlitv1.etvserver.com/live_sd/tv8hd/chunks.m3u8?nimblesessionid=245297509&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMjIgNjo1ODo0MSBQTSZoYXNoX3ZhbHVlPUhoNkRnUkt4dGdQWFBsMnZBditENVE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
